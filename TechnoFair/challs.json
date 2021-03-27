@@ -1,0 +1,332 @@
+{
+    "data": {
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "Ada Sebuah Channel Discord yang akan memberikan kamu Flag, Tetapi hanya Admin yang dapat mengaksesnya !!!\r\n\r\nhttps://discord.gg/VzgWKfdjcF\r\n\r\nFormat Flag : technofair{xxx}",
+                "files": [],
+                "hints": [],
+                "id": 30,
+                "name": "Channel Rahasia",
+                "points": 100,
+                "solves": 20
+            },
+            {
+                "category": "Misc",
+                "description": "Use this command to get the Flag\r\n\r\n!welcome_to_technofair_2021\r\n\r\n\r\nNOTE : gunakan di channel #bot-spam",
+                "files": [],
+                "hints": [],
+                "id": 31,
+                "name": "Welcome to TechnoFair 8.0 (2021)",
+                "points": 100,
+                "solves": 28
+            },
+            {
+                "category": "Misc",
+                "description": "[Feedback TechnofairCTF](https://forms.gle/CJx7TcwWjnPS39pF6)",
+                "files": [],
+                "hints": [],
+                "id": 33,
+                "name": "Feedback",
+                "points": 100,
+                "solves": 1
+            }
+        ],
+        "crypto": [
+            {
+                "category": "crypto",
+                "description": "Are you lucky enough?\r\n\r\nAuthor: Rayhanga",
+                "files": [
+                    "/files/0759185cb44c760dddf9aeddeaf22f10/cipher.txt?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mn0.YF8e_g.ctwWyoTHp2Lrx7toBtmDC2qyVnc"
+                ],
+                "hints": [
+                    "Use the \"**lucky number**\""
+                ],
+                "id": 2,
+                "name": "A Lucky Loop",
+                "points": 100,
+                "solves": 21
+            },
+            {
+                "category": "crypto",
+                "description": "Kata temenku makin banyak bilangan prima makin bagus :(\r\n\r\nauthor: twistbil",
+                "files": [
+                    "/files/0e64f283226ed4ad8e2f4210a54260d9/chall.zip?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjV9.YF8e_g.yficH48q9zZxaiFYi0oM5ed5bZs"
+                ],
+                "hints": [],
+                "id": 24,
+                "name": "Aku dan 4 bilangan prima",
+                "points": 100,
+                "solves": 18
+            },
+            {
+                "category": "crypto",
+                "description": "ternyata lebih seru baca angka dari pada baca huruf\r\n\r\nauthor: twistbil",
+                "files": [
+                    "/files/4ce5d5101c9b274573f8521324f33cee/chall.zip?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjZ9.YF8e_g.GbgIUZ02Jy_QFtUKn2bHu66wolY"
+                ],
+                "hints": [],
+                "id": 25,
+                "name": "baca-baca angka",
+                "points": 100,
+                "solves": 9
+            },
+            {
+                "category": "crypto",
+                "description": "Lakukan seperlunya saja..\r\n\r\nnc 103.152.242.172 7070\r\n\r\nauthor : T-K!",
+                "files": [
+                    "/files/02b36f1445ead0c642de127e80c2fc6e/Room_N_Guess.png?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTJ9.YF8e_g.UzDbXTMHr0ZZv67HW3xf9Xj2iuI"
+                ],
+                "hints": [],
+                "id": 9,
+                "name": "Sphinx Labyrinth",
+                "points": 344,
+                "solves": 5
+            },
+            {
+                "category": "crypto",
+                "description": "Merlin kesulitan untuk memahami pembicaraan para Archangels, bisakah kamu membantunya?\r\n\r\nauthor : T-K!",
+                "files": [
+                    "/files/1d5f801d69c77e7770889aab92db410f/archangels.txt?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTZ9.YF8e_g.xemQ0XVaEreFWyWibk9EMm9D_B0"
+                ],
+                "hints": [],
+                "id": 14,
+                "name": "The ARCh4ngels",
+                "points": 194,
+                "solves": 6
+            },
+            {
+                "category": "crypto",
+                "description": "Nothing is Difficult. Everything is EZ:)\r\n\r\nnc 103.152.242.172 7080\r\n\r\nnote : GAMBAR HANYA PEMANIS xixi\r\n\r\n\r\nauthor : KNOWNPLAIN",
+                "files": [
+                    "/files/ea6f5df117268198716890ab206a2c2a/nothing_is_difficult.png?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTN9.YF8e_w.LYnoiAl7DI0m3qXySP_-wAWbFks",
+                    "/files/315bfd43c3e869f337b2a91b90f05971/nothing_is_difficult.rar?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTR9.YF8e_w.LsJUjX1JKHi6mPwta7Ru8kH1PRY"
+                ],
+                "hints": [],
+                "id": 11,
+                "name": "nothing_is_difficult",
+                "points": 400,
+                "solves": 3
+            },
+            {
+                "category": "crypto",
+                "description": "penghormatan untuk anime yang bentar lagi tamat, hikzz :''(\r\n\r\nauthor: twistbil",
+                "files": [
+                    "/files/cdbc40f9316bf2280d45c28d4453d343/chall.zip?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mjd9.YF8e_g.7JNQRnACG0jK24w6CIsbeokQfP4"
+                ],
+                "hints": [],
+                "id": 26,
+                "name": "x_A(o)T_r",
+                "points": 194,
+                "solves": 6
+            }
+        ],
+        "forensic": [
+            {
+                "category": "forensic",
+                "description": "ritsu adalah murid baru r0b0t buatan militer jepang yang digunakan untuk membunuh kuro Sensei, Bantu terjemahkan ucapan ritsu\r\n\r\nBackup File link :\r\nhttps://mega.nz/file/Ox8GiBoB#t8Qfr-OSAn96eiPs1zICfnZuBZKgsIiay1JdxaZ1DdU\r\n\r\nformat : technofair{flagtext}\r\n\r\nAuthor : @Udinsan",
+                "files": [
+                    "/files/f964466ee0a3ab524df56c1300bee844/file.zip?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6OH0.YF8e_w.ONle-naOQ3IDktl8JBfWL2eOREk"
+                ],
+                "hints": [],
+                "id": 5,
+                "name": "r0b0t",
+                "points": 100,
+                "solves": 9
+            },
+            {
+                "category": "forensic",
+                "description": "berikut adalah dump dari sebuah perusahaan di australia\r\n[link](https://drive.google.com/file/d/1lslerFNJ0KM-kDqnk_KunB9jzd7G8awo/view)\r\n\r\nauthor : HoneyFun",
+                "files": [],
+                "hints": [],
+                "id": 7,
+                "name": "doomp",
+                "points": 100,
+                "solves": 24
+            },
+            {
+                "category": "forensic",
+                "description": "Yang terlihat itu terbaik.\r\n\r\nauthor: MidnightRumble",
+                "files": [
+                    "/files/36c32a36bfa689bdae6670cad74105e5/Diamond.jpg?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Nn0.YF8e_w.2AUH0GFy0sZTRte2F4vE0R4u4ZM"
+                ],
+                "hints": [],
+                "id": 4,
+                "name": "Go Diamond",
+                "points": 475,
+                "solves": 2
+            },
+            {
+                "category": "forensic",
+                "description": "tujuan bukan segalanya, nikmati saja prosesnya bray~\r\n\r\nauthor : HoneyFun",
+                "files": [
+                    "/files/8bedf8ebaeeb1004679818678f59014e/suparman?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTF9.YF8fAA.WUXrLssu5HFbd7LMvQbW2nUgGjk"
+                ],
+                "hints": [],
+                "id": 8,
+                "name": "mr.compress",
+                "points": 494,
+                "solves": 1
+            },
+            {
+                "category": "forensic",
+                "description": "one day, there was a genius named **zero** who has inserted a secret code in the file.. \r\nhe ordered to pay attention to something carefully. \r\nCan you help me to solve his riddle?\r\n\r\nformat : technofair{flagtext}\r\n\r\nAuthor : FirstLead",
+                "files": [
+                    "/files/e3e5b338941933fa4d84a09f89ea984a/mushi.zip?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTd9.YF8fAA.irVovzNYfFtCxnGpz-1X9iLWIkk"
+                ],
+                "hints": [],
+                "id": 12,
+                "name": "zero_1",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "forensic",
+                "description": "Hello, it's me zero. let's play the game again..\r\nI commands you, solve this challenge!\r\nI believe you can beat me! haha\r\n-- zero --\r\n\r\nformat : technofair{flagtext}\r\n\r\nAuthor : FirstLead",
+                "files": [
+                    "/files/71e9240086c48690dc1776badf061ccb/operationzero2.zip?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTh9.YF8fAA.ymQCzXB213GvGY5tDOzYO-7vm8A"
+                ],
+                "hints": [],
+                "id": 13,
+                "name": "zero_2",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "pwn": [
+            {
+                "category": "pwn",
+                "description": "nc 103.152.242.172 6077\r\n\r\nauthor: tripoloski",
+                "files": [
+                    "/files/e7c9337f0d77969e3dc40573b5189eb6/chall?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjJ9.YF8fAA.TLpoTVRRk7goqxcU-cjEcCdNO_A"
+                ],
+                "hints": [],
+                "id": 18,
+                "name": "aarch64",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "pwn",
+                "description": "nc 103.152.242.172 60902\r\n\r\nauthor: ravidhr",
+                "files": [
+                    "/files/f1e9678bb90fb4fef51e47c23deff799/libc.so.6?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NH0.YF8fAA.8F06AJqFgqAwR1Yghlk_sDB2rAw",
+                    "/files/3b80e901e8e29f8f198a598ea72701ef/chall?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NX0.YF8fAA.Qc9YuxpiGOLcBB5FPuzowwSt__o"
+                ],
+                "hints": [],
+                "id": 3,
+                "name": "leakless",
+                "points": 494,
+                "solves": 1
+            },
+            {
+                "category": "pwn",
+                "description": "pemanasan gan...\r\n\r\nnc 103.152.242.172 6060\r\n\r\nauthor: tripoloski",
+                "files": [
+                    "/files/2c1b8779667b664652625e3abd500d98/chall?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MX0.YF8fAA.0uL815pioTR6nKtutytlQkIoVsc"
+                ],
+                "hints": [],
+                "id": 1,
+                "name": "babyarm",
+                "points": 475,
+                "solves": 3
+            },
+            {
+                "category": "pwn",
+                "description": "nc 103.152.242.172 60903\r\n\r\nauthor: ravidhr",
+                "files": [
+                    "/files/3b9923091023b36e903036d6eb1490aa/chall?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjR9.YF8fAA.8VMbKvWQUfKLlV7o-3jAezQj1hk"
+                ],
+                "hints": [],
+                "id": 20,
+                "name": "print_only",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "pwn",
+                "description": " nc 103.152.242.172 60901\r\n \r\n author: ravidhr",
+                "files": [
+                    "/files/9fe0a0c20e659bc341cb3e884121671e/chall?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjN9.YF8fAA.sUy_atgdO3dEMxV9tvrhLdf6i18"
+                ],
+                "hints": [],
+                "id": 19,
+                "name": "READ_ONLY",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "rev": [
+            {
+                "category": "rev",
+                "description": "Bantu saya untuk mendapatkan kupon yang masih valid..\r\n\r\nFormat flag : `technofair{}`\r\n\r\nauthor : insomn14",
+                "files": [
+                    "/files/fcd2daa45ae52c1b607e088a057c5a57/chall?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjF9.YF8fAA.5hqd94SYwrZNFVJ2gWGQ5uQwlu8"
+                ],
+                "hints": [],
+                "id": 17,
+                "name": "Kupon",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "rev",
+                "description": " [Just Do It Reverse](http://youtube.com/watch?v=9F0q0Rsrs_0)\r\n\r\nauthor : insomn14",
+                "files": [
+                    "/files/0b1b07bb53b810cbd47940f1cd64d19f/ciphertext.txt?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MTl9.YF8fAA.GNlgr44GBOL4zuWP_Yx2Xr0Q22U",
+                    "/files/ca2768c8e765c350888bd7ba0e84613a/enc.o?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MjB9.YF8fAA.TvgUY_Xw9Fsr_deeDkdpTbJRHXA"
+                ],
+                "hints": [],
+                "id": 16,
+                "name": "Enc",
+                "points": 500,
+                "solves": 1
+            }
+        ],
+        "web": [
+            {
+                "category": "web",
+                "description": "Is it simple huh?\r\n\r\nhttp://103.152.242.172:20053/\r\n\r\nAuthor: brokenheart",
+                "files": [],
+                "hints": [],
+                "id": 32,
+                "name": "Simple",
+                "points": 100,
+                "solves": 8
+            },
+            {
+                "category": "web",
+                "description": "Sambil menunggu developer front end kami menyelesaikan tugasnya, kami ingin meminta anda untuk menguji sistem cloud storage yang baru saja kami buat dan masih dalam tahap pengembangan, bisakah anda menemukan celah apa aja yang ada dalam sistem kami\r\n\r\nhttp://103.152.242.172:20052\r\n\r\nAuthor: brokenheart",
+                "files": [],
+                "hints": [],
+                "id": 22,
+                "name": "Cloud Storage",
+                "points": 100,
+                "solves": 9
+            },
+            {
+                "category": "web",
+                "description": "Apakah kamu ingin bekerja sama dengan perusahaan ini?\r\n\r\nhttp://103.152.242.172:20020/\r\n\r\nAuthor: SCN",
+                "files": [],
+                "hints": [
+                    "seperti nya programmer lupa akan suatu hal yang dapat menampilkan kesalahan pada saat diawal"
+                ],
+                "id": 21,
+                "name": "SCN TECH",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "web",
+                "description": "Is website up or down?\r\n\r\nhttp://103.152.242.172:20051/\r\n\r\nAuthor: brokenheart",
+                "files": [],
+                "hints": [],
+                "id": 23,
+                "name": "Up or Down",
+                "points": 475,
+                "solves": 2
+            }
+        ]
+    },
+    "url": "http://103.152.242.172"
+}

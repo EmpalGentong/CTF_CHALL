@@ -1,0 +1,297 @@
+{
+    "data": {
+        "Cryptography": [
+            {
+                "category": "Cryptography",
+                "description": "Do not think too hard.\r\n\r\n`nc slave3.ctf.arkavidia.id 10021`\r\n\r\n*Author: haverzard*\r\n\r\nattachment: https://drive.google.com/file/d/1rP8lpgRJw5CAApb7cMP03OABbXLgQwH0/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "No Think",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Cryptography",
+                "description": "After breaking the pqrsen code, the box is unlocked. You open the box just to find an ancient machine. It can encrypt and hash something?\r\n\r\n`nc slave3.ctf.arkavidia.id 10023`\r\n\r\n*Author: haverzard*\r\n\r\nattachment: https://drive.google.com/file/d/18JKH6iqmEaCNiecsGLpVSXoqkfkhhgi0/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "cqler",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Cryptography",
+                "description": "Last year, pqrsen wasn't solved using the intended solution because I forgot to patch & put constraints to my challenge when doing some changes. So I create a cryptosystem based on it.\r\n\r\nHopefully, it's working this time! And don't even try to bruteforce 15 alphanumeric & case-sensitive chars!\r\n\r\nUnrelated:\r\n![meme.png](/files/43d6c97e276ce8cd0d1f9fe3fac0a159/meme.png)\r\n\r\n*Author: haverzard*\r\n\r\nattachment: https://drive.google.com/file/d/1MofwjSaOSVaOrnsVAM9uiDlCKSSSbXxY/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "qratz2048",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Cryptography",
+                "description": "Ahh, we haven't seen you in a while, agent 007. We have some missions for you. We don't know whether each of them is related or not. Here, you can use this tool to communicate with us.\r\n\r\n`nc slave3.ctf.arkavidia.id 10022`\r\n\r\n*Author: nightmare*\r\n\r\nattachment: https://drive.google.com/file/d/1YLQHV1fQWZ5nxABVvBd_7-D8KnhMebZm/view?usp=sharing\r\n\r\n",
+                "files": [],
+                "hints": [
+                    "What is the decrypt function for? Decryption, authentication, or something else?",
+                    "Do you know that you can craft special encrypted data without decrypting the ciphertext?"
+                ],
+                "id": 8,
+                "name": "re;union",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Cryptography",
+                "description": "Algoritma enkripsi mirip rsa dengan 5 bilangan prima.\r\n\r\n*Author: Aphos*\r\n\r\nattachment: https://drive.google.com/file/d/1ZP_SYg6Q5Yr-_7dO570mJb9sBXIkYoP4/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "optimus prime",
+                "points": 467,
+                "solves": 12
+            }
+        ],
+        "Forensics": [
+            {
+                "category": "Forensics",
+                "description": "*Author: girvinjunod*\r\n\r\nattachment: https://drive.google.com/file/d/1bm4knCoD9dWAZLDZbd2cKXu00bssTkVk/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "It's me",
+                "points": 421,
+                "solves": 18
+            },
+            {
+                "category": "Forensics",
+                "description": "This PNG is weird.\r\n\r\n*Author: Fraglantia*\r\n\r\nattachment: https://drive.google.com/file/d/1qM0EF0cAfa5OiVSQH5L0fC6-DAQ76dPH/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "I Did A Thing",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Forensics",
+                "description": "Tadi pas ngubek-ngubek file lama, ada foto Babymetal. Sampe sekarang masih suka banget dengerin lagu ini. Aku rekomen lagu https://www.youtube.com/watch?v=WIKqgE4BwAY.\r\n\r\n*Author: Jspmarc*\r\n\r\nattachment: https://drive.google.com/file/d/1u3bdMyIcI8YIq3-bimiOMaV7PL6SC_5Z/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "KawaiiMetal",
+                "points": 270,
+                "solves": 35
+            }
+        ],
+        "Miscellaneous": [
+            {
+                "category": "Miscellaneous",
+                "description": "Please fill out this form: https://forms.gle/TiQFWRUm23NkSjW49.\r\n\r\nThanks!",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 31,
+                "name": "Feedback!",
+                "points": 50,
+                "solves": 51
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "You are going to need a `help` from **someone**.\r\n\r\n*Author: BeforeLast*",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "Sad and Lonely Friend",
+                "points": 165,
+                "solves": 42
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "Melepas penat CTF dengan main game isekai dulu.\r\n\r\nFlag dimasukkan ke dalam format `Arkav7{flag}`\r\n\r\n*Author: girvinjunod*\r\n\r\nattachment: https://drive.google.com/file/d/1r7E-p8vXuhdjwWA76CRFu3AfjU_YXQuh/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "isekai",
+                "points": 212,
+                "solves": 39
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "Pada tanggal 9 Agustus 2019, sebuah artikel ilmiah dipublikasikan pada jurnal Computing and Software for Big Science. Salah satu penulis dari artikel ilmiah tersebut pernah menjadi narasumber pada suatu podcast. Sekitar tiga bulan setelah artikel tersebut dipublikasikan (1 Nov 2019), penulis ini mengunjungi suatu tempat di belahan bumi selatan. Cari tahu nama tempat tersebut.\r\n\r\nFormat flag: `Arkav7{nama_tempat_menggunakan_snake_case}`\r\n\r\n*Author: didithilmy*",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "OSINT-1",
+                "points": 256,
+                "solves": 35
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "Join our discord!\r\n\r\nhttps://discord.gg/FARmCw8D",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "Welcome to Arkavidia 70",
+                "points": 50,
+                "solves": 61
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "Can you hear it?\r\n\r\n`nc slave1.ctf.arkavidia.id 10004`\r\n\r\nUnrelated: https://youtu.be/lnXXfYA91Y8\r\n\r\n*Author: Fraglantia*\r\n\r\nattachment: https://drive.google.com/file/d/1z-CQJvvb0ba4rnPzHTbGsU2OMhKiW-fs/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 13,
+                "name": "Love Whisper",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Pwn",
+                "description": "Life goes on ...\r\n\r\nConnect to the server with:  \r\n`./client 104.248.146.184 10001`\r\n\r\n*Author: Fraglantia*\r\n\r\nattachment: https://drive.google.com/file/d/1-fmeMyIbf3ba87Y0cYAFVluxStIHKaNu/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 12,
+                "name": "Echo in the Forest",
+                "points": 493,
+                "solves": 7
+            },
+            {
+                "category": "Pwn",
+                "description": "Crying in the gap between reality, my stomach being torn apart with this thought.\r\n\r\nThe thorns of the words I've gulped down stab me\r\n\r\n`nc slave1.ctf.arkavidia.id 10003`\r\n\r\n*Author: haverzard*\r\n\r\nattachment: https://drive.google.com/file/d/1JWjmoBf3wgJMUqMzTKTIQzWPL_C1AunB/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 14,
+                "name": "How to Eat Life",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "Recite your baseline...\r\n\r\n`nc slave1.ctf.arkavidia.id 10002`\r\n\r\n*Author : alphaville*\r\n\r\nattachment: https://drive.google.com/file/d/19gPubfqfFT2tR1VgzPIbRxgOmbwjf41Z/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "cells",
+                "points": 500,
+                "solves": 2
+            }
+        ],
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering",
+                "description": "You're listening to ... Oncle Jazz\r\n\r\n*Author: alphaville*\r\n\r\nattachment: https://www.dropbox.com/s/1tlo86zr4ad71mq/chall.zip?dl=0",
+                "files": [
+                    "/files/b05bf8a9649cc00a679289e9ce80805a/chall.zip?token=eyJ1c2VyX2lkIjoxNywidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Nn0.YBaNLg.NsetCqZTEaU_Ujqral_Gvh1TpN0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "Oncle Jazz",
+                "points": 499,
+                "solves": 4
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Bahkan orang Bandung pun belajar aksara jawa.\r\n\r\n*Author: suggoitanoshi*\r\n\r\nattachment: https://drive.google.com/file/d/1vhTKtLXsW1P0D22LnDDgBjBhOHQpxVlr/view?usp=sharing",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "aksarajawa",
+                "points": 344,
+                "solves": 29
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Take it easy, let's play a game!\r\n\r\nhttp://slave3.ctf.arkavidia.id:10032\r\n\r\n*Author: Fraglantia*",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "Arcadevidia",
+                "points": 481,
+                "solves": 6
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "Blame fraglantia for this...\r\n\r\nhttp://slave2.ctf.arkavidia.id:10012\r\n\r\nUnrelated - https://youtu.be/Ef4c9JQumU4\r\n\r\n*Author: haverzard*",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "Tarot Cards",
+                "points": 497,
+                "solves": 4
+            },
+            {
+                "category": "Web",
+                "description": "http://slave2.ctf.arkavidia.id:10011\r\n![inator.jpg](/files/4bdf4f97fdd41e92d49c35cde9cf98bd/inator.jpg)\r\n\r\n*Author: didithilmy*",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "The Ultimate Sum Calculator-inator",
+                "points": 467,
+                "solves": 12
+            },
+            {
+                "category": "Web",
+                "description": "Agar Arkavidia 7.0 bisa jadi 'impekful', kami mencoba membuat website LinkedOut untuk membantu kamu menjalin koneksi dengan orang lain. Riset internal LinkedOut menyatakan bahwa user paling aktif LinkedOut login setiap 5 menit sekali!\r\n\r\nhttp://slave2.ctf.arkavidia.id:10014\r\n\r\n*Author: didithilmy*",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "LinkedOut",
+                "points": 500,
+                "solves": 2
+            }
+        ]
+    },
+    "title": "CTF Arkavidia 7.0",
+    "url": "http://main.ctf.arkavidia.id"
+}
