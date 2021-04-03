@@ -1,0 +1,237 @@
+{
+    "data": {
+        "Rev": [
+            {
+                "category": "Rev",
+                "description": "solve me pls\r\n\r\nauthor: insomn14",
+                "files": [
+                    "/files/fe5ec1b2a6e346319b0f03faa4cead3b/Archive.zip?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDN9.YGhMRg.xQvxRk-QVxbgwrSUop8a1zUYZfI"
+                ],
+                "hints": [],
+                "id": 47,
+                "name": "JeNI-CallMe",
+                "points": 484,
+                "solves": 2
+            }
+        ],
+        "crypto": [
+            {
+                "category": "crypto",
+                "description": "tebak-tebakan lagi yukk.. \r\n\r\nnc 103.152.242.172 7770\r\n\r\nauthor : T-K!",
+                "files": [],
+                "hints": [],
+                "id": 39,
+                "name": "Sphinx SPARK",
+                "points": 100,
+                "solves": 8
+            },
+            {
+                "category": "crypto",
+                "description": "Dukun said only LEGEND can solve this\r\n\r\nformat flag: technofair{}\r\n\r\nauthor: twistbil",
+                "files": [
+                    "/files/15aa153eea6c45ef1b641c0f1c0b442c/challenge.zip?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDZ9.YGhMRw.xn9EfKdxrwVdTTosagn6XltnHBw"
+                ],
+                "hints": [],
+                "id": 50,
+                "name": "Dukun Said",
+                "points": 244,
+                "solves": 3
+            },
+            {
+                "category": "crypto",
+                "description": "**Mr. R has a problem. Can Jessica help him?**\r\n\r\nR : Hi Jessica, Could you help me, please?\r\nJ : Sure. What should I do? \r\nR : U know my Twitter Password, right?\r\nJ : Ya, Because your twitter still connected with my phone.\r\nR : That's great. Can you tell me that password? Because i need the password to open the file which I have protected with the same password.\r\n\t\r\n\t\r\nAuthor : KNOWNPLAIN",
+                "files": [
+                    "/files/32c80f1f20882426f31453055dd80c30/A_little_bit_difficult.zip?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDd9.YGhMRw.3LI5lJwTtzLTanG97NQikPBNyoA"
+                ],
+                "hints": [],
+                "id": 51,
+                "name": "A_Little_Bit_Difficult",
+                "points": 436,
+                "solves": 3
+            },
+            {
+                "category": "crypto",
+                "description": "abang-abang yang satu ini (si author) terlalu pede dengan ngepost private key di instagramnya biar disangka hacker, bisakah kamu recover private keynya untuk mendecrypt ciphertext di bawah ini?\r\n\r\nformat flag: technofair{}\r\n\r\nauthor: twistbil\r\nig: @twistbil",
+                "files": [
+                    "/files/0521c83b6f10e8757e994bd4a6c85b66/out.txt?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDR9.YGhMRw.tCvRqfTT6Aejl_Jfi8CMyIIg4ug"
+                ],
+                "hints": [],
+                "id": 48,
+                "name": "Hargai Kunci Pripat",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "crypto",
+                "description": "Legend said only DUKUN can solve this\r\n\r\nnc 103.152.242.172 9070\r\n\r\nformat flag: technofair{}\r\n\r\nauthor: twistbil",
+                "files": [
+                    "/files/3464195af133453eb24ca66b902b1415/server.py?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDV9.YGhMRg.ZbSoT2N3r2dKv2JhmvoKzXY1JiM"
+                ],
+                "hints": [],
+                "id": 49,
+                "name": "Legend Said",
+                "points": 100,
+                "solves": 6
+            }
+        ],
+        "forensics": [
+            {
+                "category": "forensics",
+                "description": "Sebelum laptop teman saya rusak, dia bilang bahwa dia sempat mengunduh file audio aneh berekstensi .wav saat ia sedang berselancar di internet secara otomatis. Waktu dia putar file tersebut, terdengar suara aneh yang dia sendiri tidak tahu itu apa. Bisakah kamu memecahkan misteri dari file tersebut?\r\n\r\nFile berikut digunakan untuk chall Ingatan_MR_1 dan Ingatan_MR_2\r\nhttps://mega.nz/file/h8kmkJLJ#j_WiXc03OwodHw9y0QJ0DSE5LeW_s1GhoOIKGjaYQBc\r\nsha256sum 7z: cad18b04ac9e4edc7898e098c7a43ec34498248436f10870deb0652ab734e666\r\nsha256sum raw: ad41d4fa4f4800017183842e34c11d23e85fc4674b97984e5844924da616d8e7\r\n\r\nauthor: MidnightRumble",
+                "files": [],
+                "hints": [],
+                "id": 44,
+                "name": "Ingatan_MR_2",
+                "points": 100,
+                "solves": 9
+            },
+            {
+                "category": "forensics",
+                "description": "Kemarin teman saya mendatangi saya, dia bilang laptopnya tiba-tiba rusak. Untungnya sistem operasinya sudah diaktifkan untuk membuat file dump memory secara otomatis. Namun saya tidak tahu harus diapakan file tersebut. Teman saya bilang bahwa ada file rahasia di desktop laptopnya. Jadi, bisakah kamu membantu teman saya untuk mendapatkan file rahasia tersebut?\r\n\r\nFile berikut digunakan untuk chall Ingatan_MR_1 dan Ingatan_MR_2\r\nhttps://mega.nz/file/h8kmkJLJ#j_WiXc03OwodHw9y0QJ0DSE5LeW_s1GhoOIKGjaYQBc\r\nsha256sum 7z: cad18b04ac9e4edc7898e098c7a43ec34498248436f10870deb0652ab734e666\r\nsha256sum raw: ad41d4fa4f4800017183842e34c11d23e85fc4674b97984e5844924da616d8e7\r\n\r\nauthor: MidnightRumble",
+                "files": [],
+                "hints": [],
+                "id": 43,
+                "name": "Ingatan_MR_1",
+                "points": 244,
+                "solves": 5
+            },
+            {
+                "category": "forensics",
+                "description": "kata budi do re mi \r\nIZINKAN KU LUKIS SENJA MENGUKIR NAMAMU DISANA\r\n\r\nhttps://mega.nz/file/r8EgxBSK#2-mzO_zD2D55xd4L4Ft2KESujbA6rF6YaWCnAFGyCkU\r\n\r\n#hint : clue nya didalam file(kalo teliti gak bakal ngedukun)\r\n\r\nauthor : @ud1nsan\r\nformatflag = technofair{}\r\n",
+                "files": [],
+                "hints": [],
+                "id": 42,
+                "name": "Melukis Senja",
+                "points": 356,
+                "solves": 4
+            },
+            {
+                "category": "forensics",
+                "description": "Pada suatu hari ada seorang dukun yang telah bertaubat ke jalan yang benar.\r\nNamun, beberapa hari yang lalu, dia meninggalkan sebuah pesan tersirat.\r\nDapatkah kalian membantu saya untuk membantu mengetahui pesan tersebut?\r\n\r\nAuthor : FirstLead\r\n\r\nhint : si koki siber mungkin bisa membantu & please go deep analysis for the structure of files",
+                "files": [
+                    "/files/f9c1c84be627ed010103ce1d9bab444d/dukun_tobat.jpg?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDh9.YGhMRw.tVv471hE9i0_T05ZWVtCDgP4Vyc"
+                ],
+                "hints": [],
+                "id": 52,
+                "name": "Dukun_Taubat",
+                "points": 436,
+                "solves": 3
+            },
+            {
+                "category": "forensics",
+                "description": "This barcode is unrecoverable, but maybe \r\nyou can still read the message?\r\n\r\n\r\nflag adalah isi dari barcode tanpa format flag \r\ntechnofair{Isi B4rcode}\r\n\r\n\r\nauthor : HoneyFun",
+                "files": [
+                    "/files/c56591ab327b218159ecbe0948f91062/chall.png?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDl9.YGhMSA.7nf_RjOsAvHLUxiWMCVBqvsIwEk"
+                ],
+                "hints": [],
+                "id": 54,
+                "name": "Aztec",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "pwn": [
+            {
+                "category": "pwn",
+                "description": "aku useless, noob, gapantes di ring0, tapi apa pantes? bantu aku supaya percaya diri buat bisa di ring0\r\n\r\nnc 103.152.242.172 6660\r\n\r\nauthor: tripoloski ",
+                "files": [
+                    "/files/9694b8d4ddff2e5dcf7a9c12ccd2bae0/bzImage?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mjl9.YGhMSA.MNuV5ha4LVfS5Xm9b4uVt7b2uiw",
+                    "/files/767aeececbe2bb053c4584b32c2359b0/initramfs.cpio.gz?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzB9.YGhMSA.tMNCUReD_lhd-W2wDLl7vwUM49I",
+                    "/files/119cdcd78b66649971679de4615d4895/run.sh?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzF9.YGhMSA.EHkC0FVGWUjZqL7Og_t8FOY7Ksc"
+                ],
+                "hints": [],
+                "id": 34,
+                "name": "Kernel si pemurung",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "pwn",
+                "description": "nc 103.152.242.172 40902\r\n\r\nauthor: ravidhr",
+                "files": [
+                    "/files/e2d9cf54a0f4a650cfd053b661665d79/chall?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDB9.YGhMSA.oEsBnRq9sELCyzcnDDXb8pWsEHA",
+                    "/files/e324b92cec1eb0b1e7dfb27dd6eb1b19/libc.so.6?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDF9.YGhMSA.B5jdWvCdcKUkeqiMYuYJxo3gnys"
+                ],
+                "hints": [],
+                "id": 37,
+                "name": "leakless reborn",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "pwn",
+                "description": "nc 103.152.242.172 40901\r\n\r\nauthor: ravidhr",
+                "files": [
+                    "/files/1e0f883e4fdf613d37b8795e49297bd2/chall?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mzh9.YGhMSA.21RELEZcM8cmx3KqMoiZWsl5B8Y",
+                    "/files/d1fd530b4c1a4dd0d310810423cb1d95/libc.so.6?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mzl9.YGhMSA.BNe47eFg1ArTTNU0kfTDs2rJZTo"
+                ],
+                "hints": [],
+                "id": 36,
+                "name": "babyheap",
+                "points": 484,
+                "solves": 2
+            },
+            {
+                "category": "pwn",
+                "description": "nc 103.152.242.172 40904\r\n\r\nauthor: ravidhr",
+                "files": [
+                    "/files/83825f854dc7dfe41c3ab22180996203/chall?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6NDJ9.YGhMSQ.LTa6a6bLpcRKtLtlZ1Sw9-NjgLw"
+                ],
+                "hints": [],
+                "id": 38,
+                "name": "print only reborn",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "pwn",
+                "description": "tim research dari dolpin j1 yang berlokasi di lt.6 gunadarma j1, melakukan penelitian terhadap sebuah device (hape gundar), bantu tim tersebut untuk melakukan jailbreak terhadap hape gundar tersebut\r\n\r\nnc 103.152.242.172 6110\r\n\r\nauthor: tripoloski",
+                "files": [
+                    "/files/3a8d63e9f0233a07acaedf38c0061879/bzImage?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzV9.YGhMSA.JggN2LyXbK3yc_dzl6MDj-btqOM",
+                    "/files/e8c4438f063f1e7e03b0a27399257231/initramfs.cpio-peserta.gz?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6MzZ9.YGhMSA.mkJJdZHbSemGdDNuS8DY_LQCaio",
+                    "/files/77eece7dff99b38b18910036a6f82633/run.sh?token=eyJ1c2VyX2lkIjoyNiwidGVhbV9pZCI6bnVsbCwiZmlsZV9pZCI6Mzd9.YGhMSA.aokmaKFriNkb4LwGY78A9YAZbSo"
+                ],
+                "hints": [],
+                "id": 35,
+                "name": "usb_interface",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "web": [
+            {
+                "category": "web",
+                "description": "Terdapat sebuah service yang dapat mengkonversi DOCX ke PDF. Dapatkah kamu menghack service tersebut ?\r\n\r\nhttp://103.152.242.172:61900/\r\n\r\nAuthor : ravidhr",
+                "files": [],
+                "hints": [
+                    "Chaining XXE with CVE-2018-15133. Need a bit modification to make the CVE-2018-15133 exploit works"
+                ],
+                "id": 40,
+                "name": "DOCX to PDF",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "web",
+                "description": "Kalau kata orang-orang, kalau develop web pake framework itu securitynya udah pasti terjamin. Benarkah ?\r\n\r\nhttp://103.152.242.172:51901/\r\n\r\nAuthor: ravidhr",
+                "files": [],
+                "hints": [],
+                "id": 53,
+                "name": "Flag Checker",
+                "points": 484,
+                "solves": 1
+            },
+            {
+                "category": "web",
+                "description": "Terdapat penyimpananan image secara gratis tp hanya untuk sementara.  Storage akan otomatis dikosongkan setiap 30 menit sekali.\r\n\r\nhttp://103.152.242.172:61901/\r\n\r\nAuthor: ravidhr",
+                "files": [],
+                "hints": [],
+                "id": 41,
+                "name": "Image Cloud",
+                "points": 500,
+                "solves": 0
+            }
+        ]
+    },
+    "url": "http://103.152.242.172"
+}
